@@ -28,8 +28,11 @@
     box-shadow: 10px 10px;
   }
   
-  .heading {
+   .heading {
     display: flex;
+    font-family: "Lato", serif;
+    font-weight: 400;
+    font-style: normal;
     align-items: center;
     height: 582px;
   }
